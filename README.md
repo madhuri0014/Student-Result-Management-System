@@ -35,7 +35,7 @@ Website is under construction. <br/>
 ## Screenshot
 
 ### Homepage 
-<img src="https://github.com/Govind155/Student-Result-Management-System/blob/master/images/screenshot01.PNG">
+<img src="https://github.com/madhuri0014/Student-Result-Management-System/blob/main/images/examp.jpgscreenshot01.PNG">
 
 ### Login 
 <img src="https://github.com/Govind155/Student-Result-Management-System/blob/master/images/screenshot02.PNG">
